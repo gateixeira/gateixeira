@@ -1,14 +1,14 @@
-<!--
-**tiagoalmeidadarosa/tiagoalmeidadarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 👨‍💻 Lead Software Architect at [Farmer Connect](https://github.com/farmerconnect)
+- 👨‍🔬 Computer scientist
+- 🇧🇷/🇩🇪/🇮🇹 Brazilian-born, Italian citizen living in Germany
+- 🧉/⚽ Always with a Mate looking for something related to football, like any good South American
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Statistics
+
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gateixeira&count_private=true&show_icons=true&theme=monokai&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gateixeira&count_private=true&theme=monokai&hide_border=true" />
+</p>
