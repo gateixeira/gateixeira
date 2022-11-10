@@ -1,6 +1,6 @@
 ## About Me
 
-Senior Solutions Architect @GitHub
+Senior Solutions Architect with the [@GitHub](https://github.com/github)'s Expert Services team.
 
 - 👨‍💻 Software Engineer
 - 👨‍🔬 Computer scientist
